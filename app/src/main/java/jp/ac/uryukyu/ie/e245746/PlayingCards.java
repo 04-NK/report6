@@ -1,4 +1,4 @@
-package Report6.app.src.main.java.jp.ac.uryukyu.ie.e245746;
+package jp.ac.uryukyu.ie.e245746;
 
 import java.util.ArrayList;
 
@@ -25,7 +25,6 @@ public class PlayingCards {
         return cards.remove(randomIndex);
     }
 
-    
     public static void main(String[] args) {
         
         PlayingCards playingCards = new PlayingCards();
@@ -37,5 +36,7 @@ public class PlayingCards {
         }
         
     }
+
+
 }
 
