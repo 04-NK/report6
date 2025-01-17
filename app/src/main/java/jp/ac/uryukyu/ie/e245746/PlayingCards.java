@@ -34,9 +34,6 @@ public class PlayingCards {
         for (Object card : playingCards.cards) {
             System.out.print(card + " ");  
         }
-        
     }
-
-
 }
 
