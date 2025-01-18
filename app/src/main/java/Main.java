@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 import jp.ac.uryukyu.ie.e245746.Game;  
-
+// プレイヤー数の入力し、ゲームを開始する
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
