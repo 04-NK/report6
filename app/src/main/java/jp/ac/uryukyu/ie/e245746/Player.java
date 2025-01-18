@@ -35,5 +35,4 @@ public class Player {
     public Set<Object> getCollectedcard() {
         return collectedcard; 
     }
-
 }

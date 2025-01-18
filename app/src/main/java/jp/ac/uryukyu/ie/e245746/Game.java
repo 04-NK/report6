@@ -19,7 +19,6 @@ public class Game {
             players.add(new Player());
         }
     }
-
     public void start() {
         Scanner scanner = new Scanner(System.in);
 
