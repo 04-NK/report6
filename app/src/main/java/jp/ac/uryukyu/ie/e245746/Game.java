@@ -32,7 +32,6 @@ public class Game {
             String input = scanner.nextLine();
             // カードを引く
             if (input.equalsIgnoreCase("y")) {
-
                 Object drawnCard = deck.drawRandomCard();  
                 if (drawnCard != null) {
                     System.out.println("引いたカード: " + drawnCard);
